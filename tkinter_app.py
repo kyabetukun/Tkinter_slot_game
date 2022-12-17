@@ -5,7 +5,7 @@ import random
 root = Tk()
 root.title("数字スロットゲーム")
 
-count = random.randint(1,10)
+count = random.randint(1,7)
 after_id = None
 
 def stop():
@@ -67,6 +67,7 @@ def label(text,size):
 
 def button():
   return ttk.Button(root, text="押せ!", command=stop)
+
 label_1 = label("0",80)
 label_2 = label("0",80)
 label_3 = label("0",80)

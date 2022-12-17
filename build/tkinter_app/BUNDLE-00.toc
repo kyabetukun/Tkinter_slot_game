@@ -1,0 +1,3 @@
+([('tkinter_app',
+   '/Users/ozakisouta/Desktop/Python_Study_Record/Tkinter_slot_game/dist/tkinter_app',
+   'EXECUTABLE')],)
